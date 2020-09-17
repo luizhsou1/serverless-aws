@@ -48,6 +48,9 @@ Uma chatisse, precisa criar uma role, pegar o arn da role e vincular a function,
 - Link: https://cursosserverlessaws.club.hotmart.com/t/page/pRONDWXdeP (**MUITO IMPORTANTE ESSA AULA**)
 
 ## Capítulo 3
+
+
+
 ## Capítulo 4
 ## Capítulo 5
 ## Capítulo 6
